@@ -1,0 +1,47 @@
+body{
+  background-color: black;
+  color: aliceblue;
+  font-size: 34px;
+  font-style: arial;
+}
+.hunk{
+  padding: 09px;
+  width: 120px;
+  font-size: 15px;
+  
+}
+.rock{
+  padding: 40px;
+  border-radius: 50%;
+  background-color: transparent;
+  cursor: pointer;
+  margin-right: 10px;
+ 
+}
+.rock1{
+  height: 50px;
+  
+}
+.paper{
+  padding: 40px;
+  border-radius: 50%;
+  background-color: transparent;
+  cursor: pointer;
+   margin-right: 10px;
+
+}
+.paper1{
+  height: 50px;
+}
+.scissors{
+  padding: 40px;
+  border-radius: 50%;
+  background-color: transparent;
+  cursor: pointer;
+   margin-right: 10px;
+
+}
+.scissors1{
+  height: 50px;
+
+}
